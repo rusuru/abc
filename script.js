@@ -2,6 +2,7 @@
 'use strict';
 	var words = [
 		'pechuga de poyo',
+		'mole',
 		'manzana',
 		'platano',
 		'ciruela',
