@@ -3,7 +3,7 @@
 	var words = [
 		'pechuga de poyo',
 		'mole',
-		'caramales',
+		'caramalesles',
 		'manzana',
 		'platano',
 		'ciruela',
