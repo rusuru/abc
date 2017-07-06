@@ -1,6 +1,7 @@
 (function(){
 'use strict';
 	var words = [
+		'pechuga de poyo',
 		'manzana',
 		'platano',
 		'ciruela',
